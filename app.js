@@ -14,8 +14,6 @@ let scores, roundScore, activePlayer, gamePlaying;
 
 function init() {
 
-    console.log('gggg');
-
     scores = [0, 0];
     roundScore = 0;
     activePlayer = 0;
